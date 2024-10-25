@@ -1,0 +1,6 @@
+# Ignorar pastas build e dist
+build/
+dist/
+
+# Ignorar arquivos de especificação do PyInstaller
+*.spec
